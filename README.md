@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <h4 class="text-align: center">🏆 Github Profile Trophy 🏆</h4> 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=shahaed&column=8&theme=gruvbox&no-frame=true"/>
 <a href="https://github.com/shahaed/github-profile-trophy">
@@ -25,6 +26,4 @@ Here are some ideas to get you started:
 <div style="text-align:center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaed&count_private=true&include_all_commits=true&show_icons=true&theme=radical"/>
 </div>
-
-
-
+-->
